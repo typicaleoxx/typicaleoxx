@@ -6,7 +6,7 @@ I'm Sneha, a proud Xavierian diving headfirst into the world of tech! When I'm n
 - 💻 **Python Django Explorer:** Currently on a quest to master the art of web development with Python Django.<br><br>
 
 ## What I'm Up To 🔭<br><br>
-Right now, you'll find me knee-deep in Python Django tutorials, coding up a storm and building cool web apps. 🌐 When I'm not in the coding zone, you'll likely catch me with my nose buried in a book or binging on episodes of Modern Family. It's all about balance, right? <br><br>
+Right now, you'll find me knee-deep in Python Django tutorials, coding up a storm and trying to build something. 🌐 When I'm not in the coding zone, you'll likely catch me with my nose buried in a book or binging on episodes of Modern Family. It's all about balance, right? <br><br>
 
 ## Let's Chat! 💬<br><br>
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
