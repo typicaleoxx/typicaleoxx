@@ -18,11 +18,12 @@ One of my favorite projects is GuessTheMovie, a Python game where you guess popu
 As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! 🌱
 
 ## Let's Chat! 💬<br><br>
+
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
 
 ## Connect with Me! 🤝<br><br>
-Check out my GitHub repositories and drop a star on anything that catches your eye. Let's connect, collaborate, and create some awesome stuff together! 🌟✨<br>
 
+Check out my GitHub repositories and drop a star on anything that catches your eye. Let's connect, collaborate, and create some awesome stuff together! 🌟✨<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/typicaleoxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehalama) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/typicaleoxx) 
