@@ -3,7 +3,7 @@
 I'm Sneha, a proud Xavierian diving headfirst into the world of tech! 
 
 - 📚 **Bookworm Alert:** I'm always diving into new worlds through the pages of a book.<br>
-- 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker family!<br>
+- 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker family!<br><br>
 
 ## What I'm Up To 🔭
 Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! When I'm not buried in code, you can find me nose deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
