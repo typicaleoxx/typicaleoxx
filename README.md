@@ -6,7 +6,7 @@ I'm Sneha, a proud Xavierian diving headfirst into the world of tech!
 - 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious antics of the Dunphy-Pritchett-Tucker clan!<br>
 - 💻 **Python Django Explorer:** Currently on a quest to master Python Django.<br><br>
 
-## What I'm Up To 🔭<br><br>
+## What I'm Up To 🔭
 Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! When I'm not buried in code, you can find me nose-deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
 
 ## My Journey in Code
@@ -15,10 +15,10 @@ One of my favorite projects is GuessTheMovie, a Python game where you guess popu
 ## Seeking Advice
 As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! 🌱
 
-## Let's Chat! 💬<br><br>
+## Let's Chat! 💬
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
 
-## Connect with Me! 🤝<br><br>
+## Connect with Me! 🤝
 Check out my GitHub repositories and drop a star on anything that catches your eye. Let's connect, collaborate, and create some awesome stuff together! 🌟✨<br>
 
 
@@ -35,10 +35,10 @@ Check out my GitHub repositories and drop a star on anything that catches your e
 ![](https://github-readme-streak-stats.herokuapp.com/?user=typicaleoxx&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=typicaleoxx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
