@@ -6,7 +6,7 @@ I'm Sneha, a proud Xavierian diving headfirst into the world of tech!
 - 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker family!<br><br>
 
 ## What I'm Up To 🔍 
-Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! When I'm not buried in code, you can find me nose deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
+Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! While I'm focusing on learning Django for now, I'm also fascinated by Web3 and the potential it holds. Blockchain development is on my radar for the future, and I can't wait to dive into that realm too! But first, Django—it's all about laying the groundwork! When I'm not buried in code, you can find me nose deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
 
 ## My Journey in Code  💻
 One of my favorite projects is GuessTheMovie, a Python game where you guess popular Bollywood movie on the basis of dialogue displayed. 🎬 It's a blast from the past, packed with iconic lines from classic Bollywood films. Developed during my early Python days, GuessTheMovie holds a special place in my heart as one of my first creations. So, if you're up for a challenge and some Bollywood nostalgia, check out my repos and give it a whirl! Don't forget to share your score—I'd love to see how you do!<br><br>
