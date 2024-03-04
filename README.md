@@ -1,12 +1,21 @@
 # Hey there, I'm Sneha! 👋
 ## About Me:
-I'm Sneha, a proud Xavierian diving headfirst into the world of tech! When I'm not buried in code, you can find me nose-deep in a book or cracking up to episodes of Modern Family. Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to soak up all the knowledge I can! 
+I'm Sneha, a proud Xavierian diving headfirst into the world of tech! 
+
 - 📚 **Bookworm Alert:** I'm always diving into new worlds through the pages of a book.<br>
-- 📺 **Modern Family Fanatic:** Can't resist the hilarious antics of the Dunphy-Pritchett-Tucker clan!<br>
+- 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious antics of the Dunphy-Pritchett-Tucker clan!<br>
 - 💻 **Python Django Explorer:** Currently on a quest to master Python Django.<br><br>
 
 ## What I'm Up To 🔭<br><br>
-Right now, you'll find me knee-deep in Python Django tutorials, coding up a storm and trying to build something. 🌐 When I'm not in the coding zone, you'll likely catch me with my nose buried in a book or binging on episodes of Modern Family. It's all about balance, right? <br><br>
+Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! When I'm not buried in code, you can find me nose-deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
+
+## My Journey in Code
+
+One of my favorite projects is GuessTheMovie, a Python game where you guess popular Bollywood movie dialogues and their corresponding titles. 🎬 It's a blast from the past, packed with iconic lines from classic Bollywood films. Developed during my early Python days, GuessTheMovie holds a special place in my heart as one of my first creations. So, if you're up for a challenge and some Bollywood nostalgia, check out my repos and give it a whirl! Don't forget to share your score—I'd love to see how you do!
+
+## Seeking Advice
+
+As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! 🌱
 
 ## Let's Chat! 💬<br><br>
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
