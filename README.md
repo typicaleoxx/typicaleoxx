@@ -11,8 +11,8 @@ Currently, I'm on an excitingg journey learning Python Django, and as a beginner
 ## My Journey in Code  💻
 One of my favorite projects is GuessTheMovie, a Python game where you guess popular Bollywood movie on the basis of dialogue displayed. 🎬 It's a blast from the past, packed with iconic lines from classic Bollywood films. Developed during my early Python days, GuessTheMovie holds a special place in my heart as one of my first creations. So, if you're up for a challenge and some Bollywood nostalgia, check out my repos and give it a whirl! Don't forget to share your score—I'd love to see how you do!<br><br>
 
-## Seeking Advice 🗣️
-As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! 🌱<br><br>
+## Seeking Advice 🌱
+As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! <br><br>
 
 ## Let's Chat! 💬
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
