@@ -1,9 +1,9 @@
 # Hey there, I'm Sneha! 👋
 ## About Me:
-I'm Sneha, a proud Xavierian diving headfirst into the world of tech! 
+I'm Sneha, a proud Xavierian diving headfirst into the world of techh! 
 
 - 📚 **Bookworm Alert:** I'm always diving into new worlds through the pages of a book.<br>
-- 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker family!<br><br>
+- 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker familyyy!<br><br>
 
 ## What I'm Up To 🔍 
 Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! While I'm focusing on learning Django for now, I'm also fascinated by Web3 and the potential it holds. Blockchain development is on my radar for the future, and I can't wait to dive into that realm too! But first, Django—it's all about laying the groundwork! When I'm not buried in code, you can find me nose deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
