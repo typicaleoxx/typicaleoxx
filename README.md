@@ -18,7 +18,7 @@ As I navigate my coding journey, I'm always open to suggestions and advice from 
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
 
 ## Connect with Me! 🤝
-Check out my GitHub repositories and drop a star on anything that catches your eye. Let's connect, collaborate, and create some awesome stuff together! 🌟✨<br><br>
+Check out my GitHub repositories and drop a star on anything that catches your eye. Let's connect, collaborate, and create some awesome stuff together! <br><br>
 
 
 ## Socials 🌐
