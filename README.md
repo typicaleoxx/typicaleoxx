@@ -35,7 +35,7 @@ Check out my GitHub repositories and drop a star on anything that catches your e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=typicaleoxx&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Random Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## Random Meme 😂 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
