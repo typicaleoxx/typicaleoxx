@@ -6,13 +6,13 @@ I'm Sneha, a proud Xavierian diving headfirst into the world of techh!
 - 📺 **Modern Family Fanatic:** It's my ultimate binge-watch. Can't resist the hilarious escapades of the Dunphy-Pritchett-Tucker familyyy!<br><br>
 
 ## What I'm Up To 🔍 
-Currently, I'm on an excitingg journey learning Python Django, and as a beginner, I'm eager to hone my skills and soak up all the knowledge I can! While I'm focusing on learning Django for now, I'm also fascinated by Web3 and the potential it holds. Blockchain development is on my radar for the future, and I can't wait to dive into that realm too! But first, Django—it's all about laying the groundwork! When I'm not buried in code, you can find me nose deep in a book or cracking up to episodes of Modern Family. It's all about balance, right? <br><br>
+Right now, I'm diving into Python Django, learning the ropes as a beginner. I'm really excited to build my skills and soak up all the knowledge I can. While Django is my main focus for now, I'm also super interested in Web3 and the possibilities it brings. Blockchain development is on my radar, but for now, I'm all about getting the basics down with Django. When I'm not coding, you'll probably find me with a book or laughing at episodes of Modern Family. It's all about finding that balance, right? <br><br>
 
 ## My Journey in Code  💻
-One of my favorite projects is GuessTheMovie, a Python game where you guess popular Bollywood movie on the basis of dialogue displayed. 🎬 It's a blast from the past, packed with iconic lines from classic Bollywood films. Developed during my early Python days, GuessTheMovie holds a special place in my heart as one of my first creations. So, if you're up for a challenge and some Bollywood nostalgia, check out my repos and give it a whirl! Don't forget to share your score—I'd love to see how you do!<br><br>
+One of my favorite projects is GuessTheMovie, a Python game where you guess popular Bollywood movies based on their iconic dialogues. 🎬 It's a fun throwback with lines from classic Bollywood films. I made it during my early days of learning Python, and it's one of my first creations, so it holds a special place in my heart. If you love a challenge and some Bollywood nostalgia, check out my repos and give it a try! I'd love to see your scores!<br><br>
 
 ## Seeking Advice 🌱
-As I navigate my coding journey, I'm always open to suggestions and advice from seasoned pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! <br><br>
+As I navigate my coding journey, I'm always open to suggestions and advice from experienced pros like you! If you have any tips or recommendations for me, I'd be more than grateful. Let's learn and grow together! <br><br>
 
 ## Let's Chat! 💬
 Got any suggestions, cool project idea, book recommendation, or just want to geek out over Modern Family?, Im all ears. Drop me a line at [lsneha991@gmail.com](mailto:lsneha991@gmail.com)! I'm always down for a chat about anything and everything under the sun.<br><br>
