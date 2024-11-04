@@ -11,7 +11,7 @@ I’m Sneha, a proud Xavierian diving into the tech world!
 Right now, I’m learning Python Django as a beginner and really excited about building my skills. While Django is my main focus, I’m also curious about Web3 and all the possibilities it brings. Blockchain development is definitely on my radar, but for now, I’m concentrating on getting the hang of Django. When I’m not coding, you can probably find me with a book or laughing at episodes of *Modern Family*. Finding that balance is key, right? <br><br>
 
 ## My Journey in Code 
-One of my favorite projects is **GuessTheMovie**(because is one of the most initial project I made), a Python game where you guess popular Bollywood movies from their iconic dialogues. It’s a fun throwback to classic Bollywood films. I created it during my early days of learning Python, so it has a special place in my heart. If you love a challenge and some Bollywood nostalgia, check out my repos and give it a shot! I’d love to see how you do!<br><br>
+One of my favorite projects is **GuessTheMovie**(because it is one of the initial project I made), a Python game where you guess popular Bollywood movies from their iconic dialogues. It’s a fun throwback to classic Bollywood films. I created it during my early days of learning Python, so it has a special place in my heart. If you love a challenge and some Bollywood nostalgia, check out my repos and give it a shot! I’d love to see how you do!<br><br>
 
 ## Seeking Advice 
 As I navigate my coding journey, I’m always open to suggestions from experienced pros like you! If you have any tips or recommendations, I’d really appreciate it. Let’s learn and grow together! <br><br>
