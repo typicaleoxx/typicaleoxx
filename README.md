@@ -2,7 +2,7 @@
 # Hey there, I’m Sneha! 
 
 ## About Me:
-I’m Sneha, a proud Xavierian diving into the tech world!
+I’m Sneha, a proud Xavierian diving into the tech world
 
 -  **Bookworm:** I love getting lost in new books and exploring different worlds.<br>
 -  **Modern Family Fan:** It's my go-to binge-watch! I can’t get enough of the hilarious antics of the Dunphy-Pritchett-Tucker family!<br><br>
