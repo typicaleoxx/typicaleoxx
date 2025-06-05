@@ -1,14 +1,11 @@
 
 # Hey there, I’m Sneha! 
 
-## About Me:
-I’m Sneha, a proud Xavierian diving into the tech world
-
--  **Bookworm:** I love getting lost in new books and exploring different worlds.<br>
--  **Modern Family Fan:** It's my go-to binge-watch! I can’t get enough of the hilarious antics of the Dunphy-Pritchett-Tucker family!<br><br>
+i’m a computer science student at USF, originally from nepal, trying to figure out life, tech, and everything in between.
+currently working in cybersecurity, learning full stack development, juggling between classes. it’s a lot, but i love staying curious and figuring it all out along the way.
 
 ## What I’m Up To 
-Right now, I’m learning Python Django as a beginner and really excited about building my skills. While Django is my main focus, I’m also curious about Web3 and all the possibilities it brings. Blockchain development is definitely on my radar, but for now, I’m concentrating on getting the hang of Django. When I’m not coding, you can probably find me with a book or laughing at episodes of *Modern Family*. Finding that balance is key, right? <br><br>
+Right now, I'm working and learning in cybersecurity, also I am trying to learn full stack dev. <br><br>
 
 ## My Journey in Code 
 One of my favorite projects is **GuessTheMovie**(because it is one of the initial project I made), a Python game where you guess popular Bollywood movies from their iconic dialogues. It’s a fun throwback to classic Bollywood films. I created it during my early days of learning Python, so it has a special place in my heart. If you love a challenge and some Bollywood nostalgia, check out my repos and give it a shot! I’d love to see how you do!<br><br>
