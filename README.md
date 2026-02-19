@@ -5,7 +5,7 @@ i’m a computer science student at USF, originally from nepal, trying to figure
 currently working in cybersecurity, learning full stack development, juggling between classes. it’s a lot, but i love staying curious and figuring it all out along the way.
 
 ## What I’m Up To 
-Right now, I'm working and learning in cybersecurity, also I am trying to learn full stack dev. <br><br>
+Right now, I'm working and learning in cybersecurity, also I am trying to learn AI agents. <br><br>
 
 ## My Journey in Code 
 One of my favorite projects is **GuessTheMovie**(because it is one of the initial project I made), a Python game where you guess popular Bollywood movies from their iconic dialogues. It’s a fun throwback to classic Bollywood films. I created it during my early days of learning Python, so it has a special place in my heart. If you love a challenge and some Bollywood nostalgia, check out my repos and give it a shot! I’d love to see how you do!<br><br>
