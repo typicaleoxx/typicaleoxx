@@ -1,6 +1,6 @@
 # Hi, I'm Sneha
 
-I'm a Computer Science and Engineering student at the University of South Florida.
+I'm a Computer Science student at the University of South Florida.
 I honestly love learning about how systems work from the inside. I like to take things apart, follow the logic step by step, and then build something better. That curiosity pulled me toward backend development, security engineering, and AI.
 
 Right now, I’m working in cybersecurity while also building more projects in software engineering and AI. I’m still learning a lot, but I like staying curious and actually building things instead of only reading about them.
